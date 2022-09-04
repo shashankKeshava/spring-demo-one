@@ -1,4 +1,20 @@
+Section 4: Spring inversion of control - XML Configuration
 Spring Container
 Primary Functions
 1. Create and manage objects (Inversion of control)
-2. Inject objects depedencies (Dependency injection)
+2. Inject objects dependencies (Dependency injection)
+
+Section 5: Spring dependency injection - XML Configuration
+Development Process(DP) - Constructor Injections
+1. Define the dependency injection and class
+2. Create a constructor in your class for injections
+3. Configure the dependency injection in spring config file
+
+DP - Inject values from Setter Injections
+1. Create setter methods in your class for injections
+2. Configure the dependency injection in Spring config file 
+
+DP - Inject values from properties files
+1. Create properties file
+2. Load properties files in Spring config file
+3. Reference values from properties file

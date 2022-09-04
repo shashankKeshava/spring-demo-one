@@ -10,6 +10,8 @@ public class MyApp {
 		
 		// use object
 		System.out.println(theCoach.getDailyWorkout());
+		
+		//
 
 
 	}
