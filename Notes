@@ -1,0 +1,4 @@
+Spring Container
+Primary Functions
+1. Create and manage objects (Inversion of control)
+2. Inject objects depedencies (Dependency injection)
